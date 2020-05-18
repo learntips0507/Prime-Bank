@@ -1,0 +1,41 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.login-main{
+    padding: 100px;
+}
+
+h1,h2,h3,h4{
+    font-weight: bolder;
+}
+h5{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.login-area h4,{
+    text-align: left;
+}
+.login-area{
+    margin-top: 10%;
+    box-shadow: 5px 5px 10px gray;
+    padding: 5%;
+    border-radius: 5px;
+}
+#transition-area{
+    display: none;
+}
+.status{
+    margin-top: 50px;
+    padding: 20px 20px;
+    color: white;
+    border-radius: 10px;
+}
+.deposit{
+    background-color: cornflowerblue;
+}
+.withdraw{
+    background-color: blue;
+}
+.balance{
+    background-color: chocolate;
+}
